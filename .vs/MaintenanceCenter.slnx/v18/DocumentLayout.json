@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LCT\\source\\repos\\MaintenanceCenter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1E17AD-2F1D-1832-1641-51ABC9A3357B}|MaintenanceCenter\\MaintenanceCenter.csproj|c:\\users\\lct\\source\\repos\\maintenancecenter\\maintenancecenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1E17AD-2F1D-1832-1641-51ABC9A3357B}|MaintenanceCenter\\MaintenanceCenter.csproj|solutionrelative:maintenancecenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1E17AD-2F1D-1832-1641-51ABC9A3357B}|MaintenanceCenter\\MaintenanceCenter.csproj|c:\\users\\lct\\source\\repos\\maintenancecenter\\maintenancecenter\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1E17AD-2F1D-1832-1641-51ABC9A3357B}|MaintenanceCenter\\MaintenanceCenter.csproj|solutionrelative:maintenancecenter\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1E17AD-2F1D-1832-1641-51ABC9A3357B}|MaintenanceCenter\\MaintenanceCenter.csproj|c:\\users\\lct\\source\\repos\\maintenancecenter\\maintenancecenter\\maintenancevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1E17AD-2F1D-1832-1641-51ABC9A3357B}|MaintenanceCenter\\MaintenanceCenter.csproj|solutionrelative:maintenancecenter\\maintenancevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1E17AD-2F1D-1832-1641-51ABC9A3357B}|MaintenanceCenter\\MaintenanceCenter.csproj|c:\\users\\lct\\source\\repos\\maintenancecenter\\maintenancecenter\\derivedappliances.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1E17AD-2F1D-1832-1641-51ABC9A3357B}|MaintenanceCenter\\MaintenanceCenter.csproj|solutionrelative:maintenancecenter\\derivedappliances.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1E17AD-2F1D-1832-1641-51ABC9A3357B}|MaintenanceCenter\\MaintenanceCenter.csproj|c:\\users\\lct\\source\\repos\\maintenancecenter\\maintenancecenter\\appliance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1E17AD-2F1D-1832-1641-51ABC9A3357B}|MaintenanceCenter\\MaintenanceCenter.csproj|solutionrelative:maintenancecenter\\appliance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1E17AD-2F1D-1832-1641-51ABC9A3357B}|MaintenanceCenter\\MaintenanceCenter.csproj|c:\\users\\lct\\source\\repos\\maintenancecenter\\maintenancecenter\\imaintenanceoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1E17AD-2F1D-1832-1641-51ABC9A3357B}|MaintenanceCenter\\MaintenanceCenter.csproj|solutionrelative:maintenancecenter\\imaintenanceoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\LCT\\source\\repos\\MaintenanceCenter\\MaintenanceCenter\\NotificationService.cs",
+              "RelativeDocumentMoniker": "MaintenanceCenter\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\LCT\\source\\repos\\MaintenanceCenter\\MaintenanceCenter\\NotificationService.cs",
+              "RelativeToolTip": "MaintenanceCenter\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T10:15:04.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LCT\\source\\repos\\MaintenanceCenter\\MaintenanceCenter\\Program.cs",
+              "RelativeDocumentMoniker": "MaintenanceCenter\\Program.cs",
+              "ToolTip": "C:\\Users\\LCT\\source\\repos\\MaintenanceCenter\\MaintenanceCenter\\Program.cs",
+              "RelativeToolTip": "MaintenanceCenter\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T10:10:22.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaintenanceValidator.cs",
+              "DocumentMoniker": "C:\\Users\\LCT\\source\\repos\\MaintenanceCenter\\MaintenanceCenter\\MaintenanceValidator.cs",
+              "RelativeDocumentMoniker": "MaintenanceCenter\\MaintenanceValidator.cs",
+              "ToolTip": "C:\\Users\\LCT\\source\\repos\\MaintenanceCenter\\MaintenanceCenter\\MaintenanceValidator.cs",
+              "RelativeToolTip": "MaintenanceCenter\\MaintenanceValidator.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T10:14:30.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DerivedAppliances.cs",
+              "DocumentMoniker": "C:\\Users\\LCT\\source\\repos\\MaintenanceCenter\\MaintenanceCenter\\DerivedAppliances.cs",
+              "RelativeDocumentMoniker": "MaintenanceCenter\\DerivedAppliances.cs",
+              "ToolTip": "C:\\Users\\LCT\\source\\repos\\MaintenanceCenter\\MaintenanceCenter\\DerivedAppliances.cs",
+              "RelativeToolTip": "MaintenanceCenter\\DerivedAppliances.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAA8wE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T10:13:59.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Appliance.cs",
+              "DocumentMoniker": "C:\\Users\\LCT\\source\\repos\\MaintenanceCenter\\MaintenanceCenter\\Appliance.cs",
+              "RelativeDocumentMoniker": "MaintenanceCenter\\Appliance.cs",
+              "ToolTip": "C:\\Users\\LCT\\source\\repos\\MaintenanceCenter\\MaintenanceCenter\\Appliance.cs",
+              "RelativeToolTip": "MaintenanceCenter\\Appliance.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T10:13:23.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMaintenanceOperations.cs",
+              "DocumentMoniker": "C:\\Users\\LCT\\source\\repos\\MaintenanceCenter\\MaintenanceCenter\\IMaintenanceOperations.cs",
+              "RelativeDocumentMoniker": "MaintenanceCenter\\IMaintenanceOperations.cs",
+              "ToolTip": "C:\\Users\\LCT\\source\\repos\\MaintenanceCenter\\MaintenanceCenter\\IMaintenanceOperations.cs",
+              "RelativeToolTip": "MaintenanceCenter\\IMaintenanceOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T10:12:51.772Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

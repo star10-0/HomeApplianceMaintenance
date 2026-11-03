@@ -1,0 +1,16 @@
+C:\Users\LCT\source\repos\MaintenanceCenter\MaintenanceCenter\bin\Debug\net8.0\MaintenanceCenter.exe
+C:\Users\LCT\source\repos\MaintenanceCenter\MaintenanceCenter\bin\Debug\net8.0\MaintenanceCenter.deps.json
+C:\Users\LCT\source\repos\MaintenanceCenter\MaintenanceCenter\bin\Debug\net8.0\MaintenanceCenter.runtimeconfig.json
+C:\Users\LCT\source\repos\MaintenanceCenter\MaintenanceCenter\bin\Debug\net8.0\MaintenanceCenter.runtimeconfig.dev.json
+C:\Users\LCT\source\repos\MaintenanceCenter\MaintenanceCenter\bin\Debug\net8.0\MaintenanceCenter.dll
+C:\Users\LCT\source\repos\MaintenanceCenter\MaintenanceCenter\bin\Debug\net8.0\MaintenanceCenter.pdb
+C:\Users\LCT\source\repos\MaintenanceCenter\MaintenanceCenter\obj\Debug\net8.0\MaintenanceCenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LCT\source\repos\MaintenanceCenter\MaintenanceCenter\obj\Debug\net8.0\MaintenanceCenter.AssemblyInfoInputs.cache
+C:\Users\LCT\source\repos\MaintenanceCenter\MaintenanceCenter\obj\Debug\net8.0\MaintenanceCenter.AssemblyInfo.cs
+C:\Users\LCT\source\repos\MaintenanceCenter\MaintenanceCenter\obj\Debug\net8.0\MaintenanceCenter.csproj.CoreCompileInputs.cache
+C:\Users\LCT\source\repos\MaintenanceCenter\MaintenanceCenter\obj\Debug\net8.0\MaintenanceCenter.dll
+C:\Users\LCT\source\repos\MaintenanceCenter\MaintenanceCenter\obj\Debug\net8.0\refint\MaintenanceCenter.dll
+C:\Users\LCT\source\repos\MaintenanceCenter\MaintenanceCenter\obj\Debug\net8.0\MaintenanceCenter.pdb
+C:\Users\LCT\source\repos\MaintenanceCenter\MaintenanceCenter\obj\Debug\net8.0\MaintenanceCenter.genruntimeconfig.cache
+C:\Users\LCT\source\repos\MaintenanceCenter\MaintenanceCenter\obj\Debug\net8.0\ref\MaintenanceCenter.dll
+C:\Users\LCT\source\repos\MaintenanceCenter\MaintenanceCenter\obj\Debug\net8.0\Maintena.F423ED92.Up2Date
